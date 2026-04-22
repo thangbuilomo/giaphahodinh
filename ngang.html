@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gia Phả Họ Đinh - Ngang</title>
+  
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-org-chart@3.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-flextree@2.1.2/build/d3-flextree.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
+  
+  <link rel="stylesheet" href="ngang.css" />
+</head>
+<body>
+  
+  <!-- Sidebar / Header -->
+  <header class="header" style="flex-direction:row; justify-content:space-between; align-items:center;">
+    <div class="controls">
+      <a href="index.html" class="btn" style="text-decoration:none; color:inherit;">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+        Trang chủ
+      </a>
+      <button id="btn-fit" class="btn">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 14l6-6 2 2 5-5 7 7-9 9-4-4-7 7z"/></svg> 
+        Vừa màn hình
+      </button>
+      <button id="btn-expand" class="btn">Mở rộng tất cả</button>
+      <button id="btn-collapse" class="btn">Thu gọn tất cả</button>
+      <button id="btn-pdf" class="btn">Xuất PDF</button>
+    </div>
+  </header>
+
+  <!-- Container for the chart -->
+  <main class="chart-wrapper">
+    <div id="chart-container"></div>
+  </main>
+
+  <!-- Modal for Person Details -->
+  <div id="detail-modal" class="modal hidden">
+    <div class="modal-content">
+      <span class="close-btn">&times;</span>
+      <div class="modal-header">
+        <div class="modal-avatar" id="modal-avatar">?</div>
+        <div>
+          <h2 id="modal-name">Tên</h2>
+          <span class="modal-badge" id="modal-title">Vai vế</span>
+        </div>
+      </div>
+      <div class="modal-body">
+        <div class="info-row">
+          <span class="info-label">Ngày sinh:</span>
+          <span class="info-val" id="modal-birth"></span>
+        </div>
+        <div class="info-row">
+          <span class="info-label">Quê quán:</span>
+          <span class="info-val" id="modal-hometown"></span>
+        </div>
+        <div class="info-row">
+          <span class="info-label">Gia thất:</span>
+          <span class="info-val" id="modal-spouses"></span>
+        </div>
+        <div class="notes" id="modal-notes" style="margin-top:1rem; font-size:14px; line-height:1.6; color:#334155;"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="chart-common-v2.js"></script>
+  <script src="ngang-layout-v2.js"></script>
+</body>
+</html>

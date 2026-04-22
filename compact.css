@@ -1,0 +1,154 @@
+:root {
+  --compact-bg: #ffffff;
+  --compact-card-bg: #ffffff;
+  --compact-border: #000000;
+  --compact-text: #000000;
+  --compact-meta: #333333;
+  --compact-accent: #000000;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: var(--compact-bg);
+  min-height: 100vh;
+  overflow: hidden;
+  color: var(--compact-text);
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  background-color: white;
+  border-bottom: 2px solid var(--compact-border);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  padding: 0 2rem;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+}
+
+.header-content {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title-area h1 {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.25rem;
+  letter-spacing: 0.05em;
+  color: var(--compact-text);
+}
+
+.title-area p {
+  margin: 2px 0 0;
+  font-size: 0.75rem;
+  color: var(--compact-meta);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.controls {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  background: white;
+  border: 1px solid var(--compact-border);
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: all 0.2s;
+  color: var(--compact-text);
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: var(--compact-bg);
+  border-color: #000;
+}
+
+.btn-primary {
+  background-color: var(--compact-border);
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #000;
+}
+
+.chart-wrapper {
+  margin-top: 80px;
+  height: calc(100vh - 80px);
+  width: 100%;
+  position: relative;
+}
+
+#chart-container {
+  width: 100%;
+  height: 100%;
+}
+
+/* Modal styles */
+.modal {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  opacity: 1;
+}
+
+.modal.hidden {
+  display: none;
+}
+
+.modal-content {
+  background: white;
+  padding: 2rem;
+  border: 2px solid black;
+  border-radius: 0px;
+  max-width: 500px;
+  width: 90%;
+  position: relative;
+}
+
+.close-btn {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+/* Custom d3-org-chart overrrides if any */
+.svg-chart-container {
+  cursor: grab;
+}
+
+.svg-chart-container:active {
+  cursor: grabbing;
+}
+
+@media print {
+  .header { display: none; }
+  .chart-wrapper { margin-top: 0; height: auto; }
+  body { background: white; overflow: visible; }
+}

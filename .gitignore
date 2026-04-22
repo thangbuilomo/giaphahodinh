@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Browser/Server logs
+.local-server.log
+.local-server.err.log
+.chrome-headless/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Media & Exports
+*.png
+*.pdf
+*.jpg
+*.jpeg

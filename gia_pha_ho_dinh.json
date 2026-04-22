@@ -1,0 +1,1234 @@
+[
+    {
+        "id": "1",
+        "name": "Đinh Văn Tất",
+        "nick_name": "Đinh Văn Ban",
+        "gender": "male",
+        "birth_date": "1920",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "Đời thứ 3 ngành thứ 6",
+        "pid": "",
+        "pids": [
+            "2"
+        ],
+        "notes": "Mất: ngày 11 tháng 02 năm 1988"
+    },
+    {
+        "id": "2",
+        "name": "Nguyễn Thị Bảo",
+        "nick_name": "Diệu An",
+        "gender": "female",
+        "birth_date": "1922",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "1"
+        ],
+        "notes": "Mất: ngày 19 tháng 12 năm 2010 (AL)"
+    },
+    {
+        "id": "3",
+        "name": "Đinh Thị Vệ",
+        "nick_name": "Diệu Vinh",
+        "gender": "female",
+        "birth_date": "11/10/1945",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "1",
+        "pids": [
+            "4"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "4",
+        "name": "Nguyễn Hữu Lực",
+        "nick_name": "Phúc Còn",
+        "gender": "male",
+        "birth_date": "01/02/1945",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "3"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "5",
+        "name": "Nguyễn Bích Hà",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "31/12/1972",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "3",
+        "pids": [
+            "6"
+        ],
+        "notes": "Khai sinh: 01/01/1973"
+    },
+    {
+        "id": "6",
+        "name": "Bùi Văn Hùng",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "20/01/1965",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "5"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "7",
+        "name": "Bùi Thuý Hằng",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "12/11/1998",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "5",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "8",
+        "name": "Bùi Hà My",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "28/9/2007",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "5",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "9",
+        "name": "Nguyễn Hữu Cường",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "01/8/1974",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "3",
+        "pids": [
+            "10"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "10",
+        "name": "Nguyễn Thị Hiền",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "28/01/1976",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "9"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "11",
+        "name": "Nguyễn Hiền Chi",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "04/04/2000",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "9",
+        "pids": [
+            "12"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "12",
+        "name": "Trương Kế Nguyên Domome Chung",
+        "nick_name": "Domome Chung",
+        "gender": "male",
+        "birth_date": "27/6/1989",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "11"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "13",
+        "name": "Trương Nguyễn Minh Trung Dustin",
+        "nick_name": "DUSTIN",
+        "gender": "male",
+        "birth_date": "15/7/2023",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "11",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "14",
+        "name": "Nguyên Minh Long",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "31-12-2004",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "9",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "15",
+        "name": "Đinh Văn Hùng",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "1947",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "1",
+        "pids": [],
+        "notes": "Mất: ngày 25 tháng 07 năm 1950"
+    },
+    {
+        "id": "16",
+        "name": "Đinh Thị Gái",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "1952",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "1",
+        "pids": [],
+        "notes": "Mất: năm 1952"
+    },
+    {
+        "id": "17",
+        "name": "Đinh Thị Hoà",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "1954",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "1",
+        "pids": [],
+        "notes": "Mất: ngày 16 tháng 05 năm 1959"
+    },
+    {
+        "id": "18",
+        "name": "Đinh Xuân Liên",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "1958",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "1",
+        "pids": [
+            "19"
+        ],
+        "notes": "Mất: ngày 04 tháng 01 năm 2013 (AL)"
+    },
+    {
+        "id": "19",
+        "name": "Trần Thị Mùa",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "1958",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "18"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "20",
+        "name": "Đinh Xuân Lăng",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "10/8/1983",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "18",
+        "pids": [
+            "21"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "21",
+        "name": "Nguyễn Thị Minh Nguyệt",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "9/6/1984",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "20"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "22",
+        "name": "Đinh Thành Vinh",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "14/6/2011",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "20",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "23",
+        "name": "Đinh Hồng Phát",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "16/10/2015",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "20",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "24",
+        "name": "Đinh Thị Kim Luyến",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "25/11/1985",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "18",
+        "pids": [
+            "25"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "25",
+        "name": "Nguyễn Văn Thanh",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "4/9/1978",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "24"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "26",
+        "name": "Nguyễn Văn Đức",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "28/2/2009",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "24",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "27",
+        "name": "Nguyễn Hoàng Bách",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "21/4/2021",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "24",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "28",
+        "name": "Đinh Lập",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "17/12/1987",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "18",
+        "pids": [
+            "29"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "29",
+        "name": "Nguyễn Thị Hải Hồng",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "6/8/1995",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "28"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "30",
+        "name": "Đinh Quốc Anh",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "17/3/2024",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "28",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "31",
+        "name": "Đinh Công Khanh",
+        "nick_name": "Hiệp",
+        "gender": "male",
+        "birth_date": "01/3/1959",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "1",
+        "pids": [
+            "32"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "32",
+        "name": "Nguyễn Thị Tính",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "31"
+        ],
+        "notes": "Mất: ngày 17 tháng 02 năm 2022 (AL)"
+    },
+    {
+        "id": "33",
+        "name": "Đinh Quang Huy",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "26/01/1985",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "31",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "34",
+        "name": "Đinh Thị Hiền",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "22/9/1987",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "31",
+        "pids": [
+            "35"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "35",
+        "name": "Nguyễn Văn Lâm",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "30/4/1986",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "34"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "36",
+        "name": "Nguyễn Đức Lượng",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "5/10/2009",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "34",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "37",
+        "name": "Nguyễn Thanh Thảo",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "3/11/2014",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "34",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "38",
+        "name": "Đinh Văn Tuấn",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "21/3/1990",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "31",
+        "pids": [
+            "39"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "39",
+        "name": "Hoàng Thị Ngọc Hà",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "14/5/2000",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "38"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "40",
+        "name": "Đinh Đức Anh",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "12/10/2023",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "38",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "41",
+        "name": "Đinh Văn Đỏ",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "1962",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "1",
+        "pids": [],
+        "notes": "Mất: khi mới sinh"
+    },
+    {
+        "id": "42",
+        "name": "Đinh Thị Đỏ",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "1963",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "1",
+        "pids": [],
+        "notes": "Mất: khi sinh non"
+    },
+    {
+        "id": "43",
+        "name": "Đinh Thị Tình",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "1965",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "1",
+        "pids": [
+            "44"
+        ],
+        "notes": "Mất: ngày 16 tháng 05 năm 1989"
+    },
+    {
+        "id": "44",
+        "name": "Nguyễn Văn Thọ",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "20/10/1960",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "43"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "45",
+        "name": "Nguyễn Thị Phương",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "11/11/1983",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "43",
+        "pids": [
+            "46"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "46",
+        "name": "Trần Minh Đoan",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "22/11/1981",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "45"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "47",
+        "name": "Trần Xuân Trường",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "18/11/2006",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "45",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "48",
+        "name": "Trần Thị Vy",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "30/11/2010",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "45",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "49",
+        "name": "Trần Hải Đăng",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "21/3/2016",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "45",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "50",
+        "name": "Nguyễn Hoài Nam",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "02/10/1986",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "43",
+        "pids": [
+            "51"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "51",
+        "name": "Trần Thị Thu",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "10/12/1986",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "50"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "52",
+        "name": "Nguyễn Huyền Trang",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "14/9/2011",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "50",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "53",
+        "name": "Nguyễn Phương Linh",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "27/02/2016",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "50",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "54",
+        "name": "Nguyễn Tiến Đạt",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "31/3/2018",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "50",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "55",
+        "name": "Nguyễn Thị Thuỷ",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "19/11/1988",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "43",
+        "pids": [
+            "56"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "56",
+        "name": "Lê Văn Chung",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "20/4/1984",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "55"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "57",
+        "name": "Lê Quỳnh Anh",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "14/4/2009",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "55",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "58",
+        "name": "Lê Trung Kiên",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "13/4/2012",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "55",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "59",
+        "name": "Lê Hương Chi",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "21/6/2014",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "55",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "60",
+        "name": "Đinh Thị Loan",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "11/10/1968",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "1",
+        "pids": [
+            "61"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "61",
+        "name": "Bùi Đức Tắc",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "27/01/1963",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "60"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "62",
+        "name": "Bùi Đức Thắng",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "8/6/1989",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "60",
+        "pids": [
+            "63"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "63",
+        "name": "Nguyễn Thị Mai Duyên",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "25/4/1989",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "62"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "64",
+        "name": "Bùi Đức Hải Minh",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "18/01/2022",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "62",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "65",
+        "name": "Bùi Đức Nhật Minh",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "12/8/2025",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "62",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "66",
+        "name": "Bùi Phương Anh",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "12/11/1997",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "60",
+        "pids": [
+            "67"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "67",
+        "name": "Đặng Duy Thành",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "8/01/1996",
+        "hometown": "Hải Phòng",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "66"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "68",
+        "name": "Đinh Văn Thư",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "01/01/1949",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "Con nuôi",
+        "pid": "1",
+        "pids": [
+            "69"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "69",
+        "name": "Lê Thị Chinh",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "1954",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "68"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "70",
+        "name": "Đinh Thị Trang",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "20/7/1977",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "68",
+        "pids": [
+            "71"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "71",
+        "name": "Phạm Văn Bằng",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "1974",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "70"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "72",
+        "name": "Phạm Minh Hằng",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "01/8/1998",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "70",
+        "pids": [
+            "73"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "73",
+        "name": "Lưu Văn Hà",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "22/8/1992",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "72"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "74",
+        "name": "Lưu Quỳnh Mai",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "01/10/2018",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "72",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "75",
+        "name": "Lưu Hương Ly",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "8/6/2020",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "72",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "76",
+        "name": "Lưu Quang Huy",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "31/5/2021",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "72",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "77",
+        "name": "Phạm Thị Thuý",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "8/4/2004",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "70",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "78",
+        "name": "Phạm Thị Nga",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "28/2/2006",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "70",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "79",
+        "name": "Đinh Thị Tâm",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "1979",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "68",
+        "pids": [
+            "80"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "80",
+        "name": "Nguyễn Trung Kiên",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "1979",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "79"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "81",
+        "name": "Nguyễn Mạnh Hùng",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "2001",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "79",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "82",
+        "name": "Nguyễn Thị Hoà",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "2004",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "79",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "83",
+        "name": "Đinh Thị Lý",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "5/6/1982",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "68",
+        "pids": [
+            "84"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "84",
+        "name": "Nguyễn Văn Âu",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "8/5/1977",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "83"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "85",
+        "name": "Nguyễn Thị Linh",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "27/7/2008",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "83",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "86",
+        "name": "Nguyễn Văn Nghĩa",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "13/02/2011",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "83",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "87",
+        "name": "Đinh Thị Luân",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "30/3/1985",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "68",
+        "pids": [
+            "88"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "88",
+        "name": "Phạm Văn Công",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "9/10/1984",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "87"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "89",
+        "name": "Phạm Thanh Dung",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "8/11/2007",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "87",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "90",
+        "name": "Phạm Văn Đức",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "5/11/2010",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "87",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "91",
+        "name": "Đinh Trung Thông",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "22/9/1988",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "68",
+        "pids": [
+            "92"
+        ],
+        "notes": ""
+    },
+    {
+        "id": "92",
+        "name": "Hoàng Thị Hải",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "",
+        "pids": [
+            "91"
+        ],
+        "notes": "Đã ly hôn"
+    },
+    {
+        "id": "93",
+        "name": "Đinh Ngọc Diệp",
+        "nick_name": "",
+        "gender": "female",
+        "birth_date": "4/10/2013",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "91",
+        "pids": [],
+        "notes": ""
+    },
+    {
+        "id": "94",
+        "name": "Đinh Hoài Đức",
+        "nick_name": "",
+        "gender": "male",
+        "birth_date": "3/7/2016",
+        "hometown": "Thôn Lực Điền, xã Hoàng Lấu, huyện Tam Dương, tỉnh Vĩnh Phúc. Nay là thôn Đồng Lực, xã Hoàng An, tỉnh Phú Thọ",
+        "title": "",
+        "pid": "91",
+        "pids": [],
+        "notes": ""
+    }
+]

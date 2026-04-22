@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gia Phả Họ Đinh - Compact</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-org-chart@3.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-flextree@2.1.2/build/d3-flextree.js"></script>
+  
+  <link rel="stylesheet" href="compact.css" />
+</head>
+<body>
+  
+  <header class="header">
+    <div class="header-content">
+      <div class="title-area">
+        <h1>GIA PHẢ HỌ ĐINH</h1>
+        <p>Phiên bản Compact - Tối ưu in ấn</p>
+      </div>
+      <div class="controls">
+        <a href="index.html" class="btn btn-secondary">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+          Trang chủ
+        </a>
+        <button id="btn-fit" class="btn">Vừa màn hình</button>
+        <button id="btn-expand" class="btn">Mở rộng hết</button>
+        <button id="btn-collapse" class="btn">Thu gọn hết</button>
+        <button onclick="window.print()" class="btn btn-primary">In / Xuất PDF</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="chart-wrapper">
+    <div id="chart-container"></div>
+  </main>
+
+  <div id="detail-modal" class="modal hidden">
+    <div class="modal-content">
+      <span class="close-btn">&times;</span>
+      <div id="modal-body-content"></div>
+    </div>
+  </div>
+
+  <script src="chart-common-v2.js"></script>
+  <script src="compact-layout.js"></script>
+</body>
+</html>
