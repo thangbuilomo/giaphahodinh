@@ -148,7 +148,40 @@ body {
 }
 
 @media print {
-  .header { display: none; }
-  .chart-wrapper { margin-top: 0; height: auto; }
-  body { background: white; overflow: visible; }
+  @page {
+    size: A3 landscape;
+    margin: 10mm;
+  }
+  
+  body {
+    background: white !important;
+    overflow: visible !important;
+    height: auto !important;
+  }
+
+  .header, .controls, .btn, .close-btn { 
+    display: none !important; 
+  }
+
+  .chart-wrapper {
+    margin-top: 0 !important;
+    height: 100% !important;
+    width: 100% !important;
+    overflow: visible !important;
+  }
+
+  #chart-container {
+    height: 100% !important;
+    width: 100% !important;
+  }
+
+  /* Làm nét các đường kẻ và chữ khi in */
+  .node-rect {
+    border: 1px solid black !important;
+  }
+  
+  text, div {
+    color: black !important;
+    -webkit-print-color-adjust: exact;
+  }
 }

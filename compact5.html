@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Gia Phả Họ Đinh - Compact 2</title>
+  <title>Gia Phả Họ Đinh - Compact 5</title>
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -21,7 +21,7 @@
     <div class="header-content">
       <div class="title-area">
         <h1>GIA PHẢ HỌ ĐINH</h1>
-        <p>Phiên bản Compact 2 - Gọn nhất</p>
+        <small>PHIÊN BẢN COMPACT 5 - DỌC TỐI ĐA (CHỮ TO)</small>
       </div>
       <div class="controls">
         <a href="index.html" class="btn btn-secondary">
@@ -31,7 +31,8 @@
         <button id="btn-fit" class="btn">Vừa màn hình</button>
         <button id="btn-expand" class="btn">Mở rộng hết</button>
         <button id="btn-collapse" class="btn">Thu gọn hết</button>
-        <button onclick="window.print()" class="btn btn-primary">In / Xuất PDF</button>
+        <button onclick="window.downloadVectorSVG(false)" class="btn btn-secondary">Tải Gốc (.svg)</button>
+        <button onclick="window.downloadVectorSVG(true)" class="btn btn-primary">Tải In A4 (.svg)</button>
       </div>
     </div>
   </header>
@@ -48,6 +49,6 @@
   </div>
 
   <script src="chart-common-v2.js"></script>
-  <script src="compact2-layout.js"></script>
+  <script src="compact5-layout.js"></script>
 </body>
 </html>
