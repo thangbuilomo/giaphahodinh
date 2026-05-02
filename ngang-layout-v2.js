@@ -151,7 +151,7 @@ function createHorizontalCardHtml(person, profile) {
       : "";
 
   const interactiveAttributes = profile.interactive
-    ? `onclick="event.stopPropagation(); window.showModalForId('${person.id}')" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='${profile.hoverShadow}'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='${profile.shadow}'"`
+    ? `onclick="event.stopPropagation(); window.showModalForId('${person.id}')" ontouchstart="window.handleNodeTouchStart(event, this)" ontouchend="window.handleNodeTouchEnd(event, this, '${person.id}')" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='${profile.hoverShadow}'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='${profile.shadow}'"`
     : "";
 
   return `

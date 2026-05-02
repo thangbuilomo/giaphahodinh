@@ -483,3 +483,25 @@ function formatHumanDateTime(date) {
 function waitMs(ms) {
   return new Promise((resolve) => window.setTimeout(resolve, ms));
 }
+
+window.handleNodeTouchStart = function(event, element) {
+  if (event.touches && event.touches.length > 0) {
+    element.dataset.tsX = event.touches[0].clientX;
+    element.dataset.tsY = event.touches[0].clientY;
+  }
+};
+
+window.handleNodeTouchEnd = function(event, element, id) {
+  if (event.changedTouches && event.changedTouches.length > 0) {
+    const startX = parseFloat(element.dataset.tsX || "0");
+    const startY = parseFloat(element.dataset.tsY || "0");
+    const endX = event.changedTouches[0].clientX;
+    const endY = event.changedTouches[0].clientY;
+    
+    if (Math.abs(endX - startX) < 15 && Math.abs(endY - startY) < 15) {
+      event.stopPropagation();
+      event.preventDefault();
+      window.showModalForId(id);
+    }
+  }
+};
